@@ -1,0 +1,207 @@
+* {
+    margin: 0;
+    padding: 0%;
+    background-color: rgb(248, 236, 243)
+}
+.img {
+    width: 100%;
+    height: auto;
+    padding: 0%;
+}
+
+h2 {
+    background-color: rgb(236, 195, 218);
+    text-align: center;
+    color: white;
+    right: 30%;
+    width: 100%;
+    font-family: "Urbanist", sans-serif;
+    
+}
+.github {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 20px;
+}
+
+.github img {
+   max-width: 150px;
+   max-height: 150px;
+}
+
+.frog {
+    display: flex;
+    width: 150px;
+    height: 150px;
+}
+.trello {
+    display: flex;
+    width: 100px;
+    height: 100px;
+    margin-left: 50%;
+    margin-right: 60%;
+    margin-top: 20%;
+
+}
+.python {
+    display: flex;
+    width: 150px;
+    height: 150px;
+    margin-left: 60%;
+    margin-right: 70%;
+    margin-top:-15%;
+}
+h3 {
+    background-color: rgb(236, 195, 218);
+    text-align: center;
+    color: white;
+    font-family: "Urbanist", sans-serif;
+}
+.text1{
+    margin-top: 20px;
+    width: 100px;
+    background-color: rgb(236, 195, 218);
+    color: aliceblue;
+    border-radius: 30px;
+    width: 700px;
+    height:200px;
+    font-family: "Urbanist", sans-serif;
+    text-align: center;  
+    font-size: 30px;
+    margin-left: 10%;
+}
+.text2 {
+    margin-top: 60px;
+    width: 100px;
+    background-color: rgb(236, 195, 218);
+    color: aliceblue;
+    border-radius: 30px;
+    width: 500px;
+    height:150px;
+    font-family: "Urbanist", sans-serif;
+    text-align: center;  
+    font-size: 30px;
+    margin-left: 10%;
+    
+}
+.text3{
+    margin-top: 80px;
+    width: 100px;
+    background-color: rgb(236, 195, 218);
+    color: aliceblue;
+    border-radius: 30px;
+    width: 200px;
+    height:100px;
+    font-family: "Urbanist", sans-serif;
+    text-align: center;  
+    font-size: 30px;
+    margin-left: -700px;
+    display: flex;
+    
+}
+.img2 {
+   padding-top:0%;
+    padding-left: 450px;
+    margin-top: 30px;
+   
+}
+.text4 {
+    margin-top: 80px;
+    width: 100px;
+    background-color: rgb(236, 195, 218);
+    color: aliceblue;
+    border-radius: 30px;
+    width: 200px;
+    height:100px;
+    font-family: "Urbanist", sans-serif;
+    text-align: center;  
+    font-size: 30px;
+    margin-left: -715px;
+}
+.img3 {
+    padding-top:0%;
+    padding-left: 40px;
+    margin-top: 30px;
+   
+}
+.text5{
+    margin-top: 80px;
+    width: 100px;
+    background-color: rgb(236, 195, 218);
+    color: aliceblue;
+    border-radius: 30px;
+    width: 200px;
+    height:100px;
+    font-family: "Urbanist", sans-serif;
+    text-align: center;  
+    font-size: 30px;
+    margin-left: 5%;
+}
+.img4 {
+    padding-top:0%;
+    padding-left: 40px;
+    margin-top: 30px;
+}
+.text6 {
+    margin-top: 80px;
+    width: 100px;
+    background-color: rgb(236, 195, 218);
+    color: aliceblue;
+    border-radius: 30px;
+    width: 200px;
+    height:100px;
+    font-family: "Urbanist", sans-serif;
+    text-align: center;  
+    font-size: 30px;
+    margin-left: 5%;
+}
+.img5 { 
+    padding-top:0%;
+    padding-left: 40px;
+    margin-top: 30px;
+}
+
+.img2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.text6 {
+    margin-top: 80px;
+    width: 100px;
+    background-color: rgb(236, 195, 218);
+    color: aliceblue;
+    border-radius: 30px;
+    width: 250px;
+    height:40px;
+    font-family: "Urbanist", sans-serif;
+    text-align: center;  
+    font-size: 30px;
+    margin-left: -755px;
+}
+.text7 {
+    margin-top: 30px;
+    width: 100px;
+    background-color: rgb(236, 195, 218);
+    color: aliceblue;
+    border-radius: 30px;
+    width: 800px;
+    height:100px;
+    font-family: "Urbanist", sans-serif;
+    text-align: center;  
+    font-size: 20px;
+    margin-left: -500px;
+}
+.rodape{
+    height: 30px;
+    padding-top: 10px;
+    margin-top: 20px;
+    width: 100%;
+    height: auto;
+}
+
+
+
+
